@@ -2,4 +2,4 @@
 
 Team Members 
 
-- Shahbaaz Khan
+- Shahbaaz Khan (The Awesome Shaz)
