@@ -9,7 +9,7 @@ export class App extends Component {
     return (
       <div>
         <GoogleLogin
-          clientId="276655996971-tqcgsfqvun9d061loj9t47demuhbqb9l.apps.googleusercontent.com"
+          clientId="46745175131-ui1hav0m4qp63qraod70ia5e2beds6qr.apps.googleusercontent.com"
           buttonText="Login"
           onSuccess={this.responseGoogle}
           onFailure={this.responseGoogle}
