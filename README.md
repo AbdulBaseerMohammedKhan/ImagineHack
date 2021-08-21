@@ -1,8 +1,12 @@
 # ImagineHack
 
 Team Members 
+=======
 
-- Shahbaaz Khan (The Awesome Shaz)
+- Shahbaaz Khan
+- Abdul Baseer Khan
+- Mohammed Abdul Hameed Aqib
+- M Shahid Ahmed
 
 <br>
 <br>
@@ -16,3 +20,4 @@ Team Members
 <br>
 ``` git push origin main```
 
+>>>>>>> 41b59a56dbd7995efc7a93f0fbec2c2977f13e18
