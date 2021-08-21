@@ -20,6 +20,8 @@ Team Members
 ```git pull //to get all the changes made by other people```
 <br>
 
+after doing your changes do the following
+
 ```git add .```
 <br>
 
